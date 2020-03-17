@@ -1,0 +1,19 @@
+## Data Standards
+
+### a. Shared data set should be in .csv format with headers
+
+### b. Headers have to be standardized using the following data standards
+
+|DRUGS|VIRAL_SPECIES|VIRAL_TARGET|HOST_TARGET|
+|-----|-------------|------------|-----------|
+|DRUG_NAME|VIRAL_SPECIES_NAME|VIRAL_SPECIES_TARGET_NAME|HOST_TARGET_NAME|
+
+
+|DOMAIN_1|DOMAIN_2|MEASUREMENT|MEASUREMENT_VALUE|MEASUREMENT_TYPE|ASSOCIATION_SCORE|
+|--------|--------|-----------|-----------------|----------------|-----------------|
+|DRUG_NAME|DRUG_NAME|SIMILARITY|0-1 | COMPARE| 
+|VIRAL_SPECIES_TARGET_NAME|VIRAL_SPECIES_TARGET_NAME|SIMILARITY|0-1 | COMPARE|
+|HOST_TARGET_NAME|HOST_TARGET_NAME|SIMILARITY|0-1 | COMPARE|
+|DRUG_NAME|VIRAL_SPECIES_NAME|ASSAY|EC50 (M) | PHENOTYPIC|
+|DRUG_NAME|VIRAL_SPECIES_TARGET_NAME|ASSAY|IC50 (M),Ki(M),Kd(M)| BIOCHEMICAL|
+

@@ -2,6 +2,18 @@
 This is a public repo for global collaboration for causal reasoning of host response to coronavirus infection, to
 help the scientific community fight COVID-19 pandemic. 
 
+The current contributors to this effort including 
+
+Community contributsion are acknowledged here.
+
+|Name|Affiliation|Contribution| 
+|-------|------|---|
+|Jeremy Zucker|[PNNL](https://www.pnnl.gov)|Scrum Master, Research Design|
+|Lurong Pan,Dawei Leng, Jie Li,Yutong Jin|[GHDDI](http://www.ghddi.org/en)|Website, Research Design, Data Share|
+
+
+
+
 Important information also published at our github pages below
 
 ## Website URL: https://global-ai-covid-19.github.io/causal-reasoning
