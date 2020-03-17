@@ -8,7 +8,7 @@ Community contributsion are acknowledged here.
 
 |Name|Affiliation|Contribution| 
 |-------|------|---|
-|Jeremy Zucker|[PNNL](https://www.pnnl.gov)|Scrum Master, Research Design
+|Jeremy Zucker|[PNNL](https://www.pnnl.gov)|Scrum Master, Research Design|
 |Lurong Pan,Dawei Leng, Jie Li,Yutong Jin|[GHDDI](http://www.ghddi.org/en)|Website, Research Design, Data Share|
 
 
