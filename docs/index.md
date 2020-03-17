@@ -4,11 +4,11 @@ help the scientific community fight COVID-19 pandemic.
 
 ## How to participate in this effort
 
-###Step 1. Data collection from different domains using certain data standards
+### Step 1. Data collection from different domains using certain data standards
 
 Data from different source will have to be cleaned to generate standardized data format to construct the comprehensive knowledge graph for analysis and modeling
 
-###Step 2. Merge all tables to generate comprehensive COVID-19 knowledge graph
+### Step 2. Merge all tables to generate comprehensive COVID-19 knowledge graph
 
 Using a python pandas script to merge all tables on respective keys
 
