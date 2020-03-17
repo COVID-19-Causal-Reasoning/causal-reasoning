@@ -47,5 +47,6 @@ Link standard reference table
 |  DDS  | DRUG_NAME  | DRUG_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
 |  VVS  | VIRAL_SPECIES_TARGET_NAME  | VIRAL_SPECIES_TARGET_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
 |  HHS  | HOST_TARGET_NAME  | HOST_TARGET_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
-|  PPS  | VIRAL_SPECIES_TARGET_NAME  | VIRAL_SPECIES_TARGET_NAME  |   |   |   |   |   |   | 
+|  PPS  | VIRAL_SPECIES_TARGET_NAME  | VIRAL_SPECIES_TARGET_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
 
+[Example data](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/data_example.csv)

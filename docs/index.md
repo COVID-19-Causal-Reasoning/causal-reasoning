@@ -6,7 +6,7 @@ help the scientific community fight COVID-19 pandemic.
 
 ### Step 1. Data collection from different domains using certain data standards
 
-Data from different source will have to be cleaned to generate standardized data format to construct the comprehensive knowledge graph for analysis and modeling
+Data from different resources will have to be cleaned to generate standardized data format to construct the comprehensive knowledge graph for analysis and modeling
 
 ### Step 2. Merge all tables to generate comprehensive COVID-19 knowledge graph
 
@@ -16,7 +16,7 @@ Using a python pandas script to merge all tables on respective keys
 
 Perform basic data aggregation an analytic exercise to understand the nature of the graph
 
-### Step 4. Construct comprehensive learning model to predict the causal reasoning map for different 
+### Step 4. Construct comprehensive learning model to predict the causal reasoning map for different requests 
 
 
 ### Step 5. Research endpoints
