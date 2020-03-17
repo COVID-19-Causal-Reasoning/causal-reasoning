@@ -1,6 +1,7 @@
 ## Data Standards
 
 ### a. Shared data set should be in .csv format with headers
+[Example data](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/data_example.csv)
 
 ### b. Headers have to be standardized using the following data standards
 
@@ -49,4 +50,3 @@ Link standard reference table
 |  HHS  | HOST_TARGET_NAME  | HOST_TARGET_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
 |  PPS  | VIRAL_SPECIES_TARGET_NAME  | VIRAL_SPECIES_TARGET_NAME  | SIMILARITY  | COMPARE  | 0-1  |   |   |   | 
 
-[Example data](https://ghddiai.oss-cn-zhangjiakou.aliyuncs.com/file/data_example.csv)
