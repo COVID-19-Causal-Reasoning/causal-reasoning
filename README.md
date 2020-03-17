@@ -25,7 +25,7 @@ You're also welcome to contribute content for this community info sharing portal
   in which `nCov` will be top level folder, and `todo I` and `todo II` will be the second level pages
 
 * #### Raise Pull Request
-  After the content editting is finished, remember to raise pull request for content merging.
+  After the content editing is finished, remember to raise pull request for content merging.
 
 * ### Markdown Format Specification
   https://guides.github.com/features/mastering-markdown/
